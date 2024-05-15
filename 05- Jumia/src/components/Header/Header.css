@@ -1,0 +1,41 @@
+.wrapperOne {
+  /* padding: 20px 0; */
+  background-color: #633185;
+  padding: 0 200px;
+}
+
+.wrapperTwo {
+  background-color: #f1f1f2;
+  padding: 5px 200px;
+}
+
+.wrapperThree {
+  display: flex;
+  background-color: #ffffff;
+  padding: 20px 200px;
+  align-items: center;
+}
+
+.firstLogo,
+.content {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.firstLogo {
+  gap: 37em;
+}
+
+.starr {
+  width: 15px;
+}
+
+.sell-link {
+  text-decoration: none;
+  color: #e07e1b;
+}
+
+.sell-link:hover {
+  text-decoration: underline;
+}

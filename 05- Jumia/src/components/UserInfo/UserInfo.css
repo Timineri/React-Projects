@@ -1,0 +1,12 @@
+.userInfo {
+  display: flex;
+  gap: 30px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.userInfoContent {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
